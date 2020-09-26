@@ -4,7 +4,11 @@ A WIP Launcher for Animal Crossing Series
 
 Make Sure to create bats for these
 GAFE01 - Animal Crossing
+
 NAFJ01 - Doubutsu no Mori
+
 GAFJ01 - Doubutsu no Mori +
+
 GAEJ01 - Doubutsu no Mori e+
+
 GAEE01 - 
