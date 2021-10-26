@@ -1,5 +1,6 @@
 # Animal-Crossing-Launcher
-A WIP Launcher for Animal Crossing Series 
+NOTE: the Source Code for the launcher has been lost. but the build for the launcher is still avaible, feel free to use it for Animal Crossing. sadly though updates will be stopping and the page will be archive. 
+A Launcher for Animal Crossing Series 
 ![ACLAUNCH](https://i.ibb.co/d78yzJx/amea.png)
 
 Make Sure to create .BATS for these and put it within the launcher, Besure to install Dolphin, Mupen64Plus, or Retroarch for all of these games, and used their commands line with the .bats for each game.
